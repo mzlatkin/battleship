@@ -1,0 +1,64 @@
+  state 0 OK -> Start a new game
+->debug_test(easy)
+  state 1 OK -> Fire Away!
+     1  2  3  4
+  A  _  _  _  _
+  B  _  _  _  v
+  C  _  _  h  v
+  D  _  _  _  _
+  Current Game (debug): 1
+  Shots: 0/8
+  Bombs: 0/2
+  Score: 0/3 (Total: 0/3)
+  Ships: 0/2
+    2x1: [B, 4]->v;[C, 4]->v
+    1x1: [C, 3]->h
+->debug_test(medium)
+  state 2 Game already started -> Fire Away!
+     1  2  3  4
+  A  _  _  _  _
+  B  _  _  _  v
+  C  _  _  h  v
+  D  _  _  _  _
+  Current Game (debug): 1
+  Shots: 0/8
+  Bombs: 0/2
+  Score: 0/3 (Total: 0/3)
+  Ships: 0/2
+    2x1: [B, 4]->v;[C, 4]->v
+    1x1: [C, 3]->h
+->give_up
+  state 3 OK -> You gave up!
+     1  2  3  4
+  A  _  _  _  _
+  B  _  _  _  v
+  C  _  _  h  v
+  D  _  _  _  _
+  Current Game (debug): 1
+  Shots: 0/8
+  Bombs: 0/2
+  Score: 0/3 (Total: 0/3)
+  Ships: 0/2
+    2x1: [B, 4]->v;[C, 4]->v
+    1x1: [C, 3]->h
+->debug_test(hard)
+  state 4 OK -> Fire Away!
+     1  2  3  4  5  6  7  8
+  A  _  _  _  _  _  _  _  h
+  B  _  _  _  _  _  _  _  _
+  C  _  h  h  _  _  _  _  v
+  D  _  _  _  _  _  v  _  v
+  E  _  v  _  _  _  v  _  v
+  F  _  v  _  _  _  v  _  _
+  G  _  v  _  _  _  v  _  _
+  H  _  v  _  _  _  v  _  _
+  Current Game (debug): 1
+  Shots: 0/24
+  Bombs: 0/5
+  Score: 0/15 (Total: 0/15)
+  Ships: 0/5
+    5x1: [D, 6]->v;[E, 6]->v;[F, 6]->v;[G, 6]->v;[H, 6]->v
+    4x1: [E, 2]->v;[F, 2]->v;[G, 2]->v;[H, 2]->v
+    3x1: [C, 8]->v;[D, 8]->v;[E, 8]->v
+    2x1: [C, 2]->h;[C, 3]->h
+    1x1: [A, 8]->h

@@ -1,0 +1,7 @@
+-- student test 3
+debug_test(easy)
+bomb([A,1],[A,2])
+bomb([C,1],[C,2])
+undo
+undo
+redo

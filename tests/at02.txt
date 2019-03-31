@@ -1,0 +1,5 @@
+-- student test 2
+debug_test(easy)
+fire([A,1])
+undo
+redo

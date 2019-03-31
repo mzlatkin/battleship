@@ -1,0 +1,5 @@
+-- student test 4
+custom_setup_test(4,2,8,3)
+fire([A,1])
+give_up
+custom_setup_test(4,2,8,3)

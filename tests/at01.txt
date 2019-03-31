@@ -1,0 +1,5 @@
+-- student test 1
+debug_test(easy)
+debug_test(medium)
+give_up
+debug_test(hard)
