@@ -1,0 +1,252 @@
+/*
+ * Code for class WEL_TB_STYLE_CONSTANTS
+ */
+
+#include "eif_eiffel.h"
+#include "../E1/estructure.h"
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_TYPED_VALUE F1178_11913(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11914(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11915(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11916(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11917(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11918(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11919(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11920(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11921(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11922(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11923(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11924(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11925(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11926(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11927(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11928(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11929(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11930(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11931(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11932(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1178_11933(EIF_REFERENCE);
+extern void EIF_Minit1178(void);
+
+#ifdef __cplusplus
+}
+#endif
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+
+#ifdef __cplusplus
+}
+#endif
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_altdrag */
+EIF_TYPED_VALUE F1178_11913 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 1024L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_tooltips */
+EIF_TYPED_VALUE F1178_11914 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 256L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_wrapable */
+EIF_TYPED_VALUE F1178_11915 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 512L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_flat */
+EIF_TYPED_VALUE F1178_11916 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 2048L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_list */
+EIF_TYPED_VALUE F1178_11917 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 4096L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_customerase */
+EIF_TYPED_VALUE F1178_11918 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 8192L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_transparent */
+EIF_TYPED_VALUE F1178_11919 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 32768L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_button */
+EIF_TYPED_VALUE F1178_11920 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 0L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_check */
+EIF_TYPED_VALUE F1178_11921 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 2L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_autosize */
+EIF_TYPED_VALUE F1178_11922 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 16L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_checkgroup */
+EIF_TYPED_VALUE F1178_11923 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 6L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_group */
+EIF_TYPED_VALUE F1178_11924 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 4L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_sep */
+EIF_TYPED_VALUE F1178_11925 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 1L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_dropdown */
+EIF_TYPED_VALUE F1178_11926 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 8L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.btns_showtext */
+EIF_TYPED_VALUE F1178_11927 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 64L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.btns_dropdown */
+EIF_TYPED_VALUE F1178_11928 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 8L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.btns_autosize */
+EIF_TYPED_VALUE F1178_11929 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 16L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_ex_drawddarrows */
+EIF_TYPED_VALUE F1178_11930 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 1L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_ex_hideclippedbuttons */
+EIF_TYPED_VALUE F1178_11931 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 16L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_ex_doublebuffer */
+EIF_TYPED_VALUE F1178_11932 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 128L);
+	return r;
+}
+
+/* {WEL_TB_STYLE_CONSTANTS}.tbstyle_ex_mixedbuttons */
+EIF_TYPED_VALUE F1178_11933 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 8L);
+	return r;
+}
+
+void EIF_Minit1178 (void)
+{
+	GTCX
+}
+
+
+#ifdef __cplusplus
+}
+#endif
